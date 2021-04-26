@@ -7,3 +7,4 @@ Teknolgi yang dipakai :
 4. Axios Versi
 5. React Bootstrap Versi
 6. CSS
+7.a
