@@ -5,6 +5,7 @@ import Navbar from './components/Navbar/Navbar';
 import routes from './Routes';
 import RouteWithSubRoutes from './utils/RouteWithSubRoutes';
 import Home from './components/pages/Home/Home';
+import Footer from './components/Footer/Footer'
 function App() {
   return (
     <Router >
@@ -15,6 +16,7 @@ function App() {
         ))}
         <Home/>
       </Switch>
+      <Footer/>
     </Router>  
   );
 }

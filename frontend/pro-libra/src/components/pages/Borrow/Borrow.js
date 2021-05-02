@@ -9,7 +9,7 @@ import './Borrow.css';
 import '../BorrowCard/BorrowForm.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import RouteWithSubRoutes from '../../../utils/RouteWithSubRoutes';
-import BorrowImage from '/home/dhifaf/Documents/tubes-basdat/frontend/pro-libra/src/assets/Images/borrow-assets.svg';
+import BorrowImage from 'C:\\Users\\HP\\yukiniyuk\\tubes-basdat\\frontend\\pro-libra\\src\\assets\\Images\\borrow-assets.svg';
 const Borrow = ({routes})=> {
   return (
 
