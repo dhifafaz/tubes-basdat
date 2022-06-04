@@ -1,4 +1,5 @@
-Tugas besar basis data.
+# Tugas besar basis data.
+
 Menerapkan penggunaan basis data pada aplikasi berjalan.
 Teknolgi yang dipakai :
 1. Django Versi 3.2
@@ -10,3 +11,11 @@ Teknolgi yang dipakai :
 8. djangorestframework Versi 3.12.4 
 9. PyMySQL Versi 1.0.2  
 10. Pillow Versi 8.2.0
+
+Video of our running app :
+
+[Click here to see the video of our running app](https://drive.google.com/file/d/1024TN5jNMaWwC8s-yxZqZlkeBkyIKmVp/view?usp=sharing)
+
+Screenshot :
+
+[Click here to see all the screenshots of our project](https://drive.google.com/drive/folders/1tAvHY7olZPgs8xvr8flDlsIds36PBNs6?usp=sharing)
